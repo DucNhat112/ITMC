@@ -4,5 +4,9 @@
 #include <math.h>
 using namespace std;
 int main () {
-    cout << "hello world";
+    int a;
+    cin >> a;
+    cout << "thang duy oc cho so: " <<a;
+    
+
 }
